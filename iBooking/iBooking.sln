@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XBooking", "XBooking\XBooking.csproj", "{50F61C83-9E53-41BF-9E46-72CF63D282A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iBooking", "iBooking\iBooking.csproj", "{B33A6CD9-7E7F-424C-AD37-D3029D8C4E80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50F61C83-9E53-41BF-9E46-72CF63D282A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50F61C83-9E53-41BF-9E46-72CF63D282A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50F61C83-9E53-41BF-9E46-72CF63D282A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50F61C83-9E53-41BF-9E46-72CF63D282A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33A6CD9-7E7F-424C-AD37-D3029D8C4E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33A6CD9-7E7F-424C-AD37-D3029D8C4E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33A6CD9-7E7F-424C-AD37-D3029D8C4E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33A6CD9-7E7F-424C-AD37-D3029D8C4E80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A002B452-D040-4899-B6C5-807EB3053E7C}
+		SolutionGuid = {3002C74F-95F6-4011-8F5F-ECBE2401F4AB}
 	EndGlobalSection
 EndGlobal
